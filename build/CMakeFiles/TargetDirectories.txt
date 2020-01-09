@@ -1,0 +1,4 @@
+/Users/democres/Desktop/cxxforth/build/CMakeFiles/rebuild_cache.dir
+/Users/democres/Desktop/cxxforth/build/CMakeFiles/edit_cache.dir
+/Users/democres/Desktop/cxxforth/build/CMakeFiles/cxxforth.cpp.md.dir
+/Users/democres/Desktop/cxxforth/build/CMakeFiles/cxxforth.dir
